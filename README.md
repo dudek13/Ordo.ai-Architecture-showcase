@@ -1,5 +1,7 @@
 # Ordo.ai-Architecture-showcase
 
+Note: The source code for this project is maintained in a private repository due to active commercialization efforts. This repository serves strictly as an Architectural Showcase demonstrating the system design, data flow, and technology stack.
+
 **Ordo.ai** to hybrydowy, wydajny system wspierający menedżerów w automatycznym układaniu harmonogramów czasu pracy. Łączy moc elastycznej interpretacji języka naturalnego przez modele LLM (przed-procesor AI) z błyskawicznym, w 100% deterministycznym silnikiem algorytmicznym w Pythonie (**Solver**) oraz transakcyjną bazą danych PostgreSQL.
 
 ---
